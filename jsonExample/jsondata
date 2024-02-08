@@ -1,0 +1,8 @@
+export const _INSTRUCTOR_ERIC_POGUE = { 
+	name:'Eric Pogue', 
+	officeHours:'Tuesdays 1-3 PM and Thursdays 10-11 AM CT by appointment',
+	office:'AS-124-A', 
+	appointmentRequests:'Appointments can be requested via email',
+	lewisPhone:'(815) 836-5015',
+	lewisEmail:'epogue@lewisu.edu' 
+}
